@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Dulen-Wickramanayaka
+- 👀 I’m interested in Artificial Intelligence, Algorithms, Graphics
+- 🌱 I’m currently learning C, Pyhton, SQL, Javascript
+- 💞️ I’m looking to collaborate on beginner friendly small projects
+- 📫 How to reach me - dulenwickramanayaka22@gmail.com
+- 😄 Pronouns: He/him
